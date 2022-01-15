@@ -6,4 +6,6 @@ Este es un documento de prueba.
 
 Soy ingeniero electrónico apasoniado por el software.
 
-Hoy estudio en Platzi sobre programación web.
+Actualmente estudio en Platzi sobre programación web.
+
+Busco cambiar y mejorar mi vida, através de la tecnología.
