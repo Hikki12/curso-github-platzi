@@ -3,3 +3,5 @@ Hola me llamo Jason,
 Tengo 24 años, y nací en Ecuador, especificamente en la ciudad de Loja.
 
 Este es un documento de prueba.
+
+Soy ingeniero electrónico apasoniado por el software.
