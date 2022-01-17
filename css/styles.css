@@ -27,3 +27,12 @@ body, html {
     padding: auto 0;
     height: 30vh;
 }
+
+hr {
+    color: black;
+
+}
+.post-container {
+    margin-top: 3vh;
+    color: rgb(85, 85, 85);
+}
